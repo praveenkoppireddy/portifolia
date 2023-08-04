@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    height: 100px;
+    padding: 20px 0px 20px 0px;
+}
+h1{
+    color: black;
+}
+h1{
+    color:black ;
+}
+ul li{
+    display: inline;
+    color: antiquewhite;
+    padding: 30px;
+}
+ul li a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+#HOME img{
+    height: 300px;
+    width: 300px;
+   border-radius: 50%;
+}
+ 
+
+#Portifolio{
+    background-color: antiquewhite;
+    padding: 10px;
+} ul li{
+    color: black;
+}
+#BIO p{
+    text-align: center;
+     text-emphasis-color: blue;
+}
